@@ -6,9 +6,9 @@ learn mvc
 
 # Views
 
-#Config Class
+# Config Class
 
-#19 - Database Building 
+# Database Building 
 
 
 # Making Hash Class

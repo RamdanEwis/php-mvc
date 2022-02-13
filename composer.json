@@ -1,0 +1,12 @@
+{
+    "name": "devramdanewis/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "devramdanewis\\": "src/",
+            "app\\": "app/"
+        }
+    },
+    "require": {
+      "ext-gd": "*"
+    }
+}
